@@ -1,0 +1,5 @@
+streamlit
+numpy
+ezdxf
+numpy-stl
+plotly
